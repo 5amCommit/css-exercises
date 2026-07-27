@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+
+.zuzupet{
+    background-color: black;
+    color: white;
+}
+
+.hamoodpet{
+    background-color: yellow;
+}
+
+.zuzupet, .hamoodpet{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
